@@ -1,0 +1,11 @@
+body {
+    background: #F6F2FF;
+  }
+  .appContent {
+    color: black;
+    font-weight: bold;
+    box-sizing: border-box;
+    overflow-y: scroll;
+    overflow-x: hidden;
+  }
+  
